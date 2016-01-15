@@ -1,0 +1,23 @@
+{
+    "agentpollinginterval": "2",
+    "customerid": "1",
+    "customername": "DC_CUSTOMER",
+    "enabledistributionserver": "no",
+    "enableproxy": "no",
+    "linux_ad_domain": "xceligent.org",
+    "linux_domain": "xceligent",
+    "linuxagentversion": "9.1.66.L",
+    "mspname": "DC_MSP",
+    "performassetscan": "yes",
+    "performpatchscan": "yes",
+    "performpostinstall": "yes",
+    "productcode": "DCEE",
+    "remoteofficeid": "1",
+    "remoteofficename": "Local Office",
+    "serverflatname": "xivmaneb01",
+    "serveripaddress": "172.21.208.10",
+    "servername": "xivmaneb01.xceligent.org",
+    "serverport": "8020",
+    "serverprotocol": "http",
+    "serversecureport": "8383"
+}
